@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: https://compassionate-torvalds-98e946.netlify.com/cv.html
